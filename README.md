@@ -1,4 +1,4 @@
-# User Management Application
+# User Management
 
 Web application for managing users with features for viewing, adding, editing, and deleting users.
 
